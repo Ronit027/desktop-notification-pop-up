@@ -1,5 +1,4 @@
-import time
-from winotify import Notification, audio
+from winotify import Notification
 toast=Notification(app_id="Ronit Roy",
                    title="Message Title",
                    msg="Hello! This is Ronit",
